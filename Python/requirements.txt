@@ -1,0 +1,5 @@
+pip install langchain
+pip install openai
+pip install -qU "langchain[openai]"
+
+pip install cx_Oracle
